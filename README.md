@@ -10,7 +10,6 @@ sudo apt-get install docker.io
 sudo usermod -aG docker $USER
 ```
 **Refresh group**
-<br>#To 
 ```bash
 sudo newgrp docker
 ```
