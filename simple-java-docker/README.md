@@ -1,6 +1,11 @@
 # Install Docker 
-sudo apt-get update <br>
+```bash
+sudo apt-get update 
+```
+
+```bash
 sudo apt-get install docker.io
+```
 
 # Create Image From Dockerfile
 **Go to the directory where the Dockerfile is located.**
